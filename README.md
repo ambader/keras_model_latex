@@ -1,5 +1,7 @@
 # keras_model_latex
 
+How to generate a LaTex code of a Keras Model
+
 load keras
 ```python
 import keras
