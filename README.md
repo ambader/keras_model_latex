@@ -81,12 +81,15 @@ get the code for ![latex table](https://github.com/ambader/keras_model_latex/blo
 ```python
 latex_table=model_to_latex(model)
 ```
+![png](https://abader.org/nextcloud/s/qjdjFs9QCyrG8ij/preview)
+
 or
 
 get the code for ![latex figure](https://github.com/ambader/keras_model_latex/blob/main/latex_figure.pdf)
 ```python
 latex_figure=model_to_latex(model,True)
 ```
+![png](https://abader.org/nextcloud/s/qjdjFs9QCyrG8ij/preview)
 
 save code in txt file
 ```python
