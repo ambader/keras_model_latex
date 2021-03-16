@@ -88,6 +88,22 @@ img {
 </style>
 <img src="https://user-images.githubusercontent.com/42641926/111282970-dc79db80-863e-11eb-8964-810e7807c2b8.png" width="250">
 
+<head>
+<style>
+img {
+  border: 5px solid #555;
+}
+</style>
+</head>
+<body>
+
+<h2>Border Around Image</h2>
+<p>Use the border property to add a border to an image:</p>
+
+<img src="https://user-images.githubusercontent.com/42641926/111282970-dc79db80-863e-11eb-8964-810e7807c2b8.png" alt="Snow" style="width:150px">
+
+</body>
+
 or
 
 get the code for ![latex figure](https://github.com/ambader/keras_model_latex/blob/main/latex_figure.pdf)
