@@ -91,7 +91,7 @@ latex_figure=model_to_latex(model,True)
 ```
 <img src="https://user-images.githubusercontent.com/42641926/111282466-52317780-863e-11eb-91e0-15b3e8acff54.png" width="250" border="1">
 
-save code in txt file
+save code in txt file (insert to latex_raw.tex)
 ```python
 with open('latex_table.txt','w') as f:
     f.write(latex_table)
