@@ -44,7 +44,7 @@ model_summary=model.summary()
     _________________________________________________________________
 
 
-load functions from keras_latex.py
+load functions from ![keras_latex.py](https://github.com/ambader/keras_model_latex/blob/main/keras_latex.py)
 ```python
 def get_model_latex_table(inp):
     zw=[]
