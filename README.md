@@ -89,7 +89,7 @@ get the code for ![latex figure](https://github.com/ambader/keras_model_latex/bl
 ```python
 latex_figure=model_to_latex(model,True)
 ```
-![png](https://user-images.githubusercontent.com/42641926/111282466-52317780-863e-11eb-91e0-15b3e8acff54.png|width=100px)
+<img src="https://user-images.githubusercontent.com/42641926/111282466-52317780-863e-11eb-91e0-15b3e8acff54.png" width="48">
 
 save code in txt file
 ```python
