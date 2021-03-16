@@ -81,7 +81,7 @@ get the code for ![latex table](https://github.com/ambader/keras_model_latex/blo
 ```python
 latex_table=model_to_latex(model)
 ```
-<img src="https://user-images.githubusercontent.com/42641926/111282970-dc79db80-863e-11eb-8964-810e7807c2b8.png" width="150">
+<img src="https://user-images.githubusercontent.com/42641926/111282970-dc79db80-863e-11eb-8964-810e7807c2b8.png" width="250" border="1">
 
 or
 
@@ -89,7 +89,7 @@ get the code for ![latex figure](https://github.com/ambader/keras_model_latex/bl
 ```python
 latex_figure=model_to_latex(model,True)
 ```
-<img src="https://user-images.githubusercontent.com/42641926/111282466-52317780-863e-11eb-91e0-15b3e8acff54.png" width="150">
+<img src="https://user-images.githubusercontent.com/42641926/111282466-52317780-863e-11eb-91e0-15b3e8acff54.png" width="250" border="1">
 
 save code in txt file
 ```python
