@@ -76,17 +76,14 @@ def model_to_latex(inp,table=False):
         
 ```
 
-get the code for latex table
-
-
-![latex](https://github.com/ambader/keras_model_latex/blob/main/latex_table.pdf)
+get the code for ![latex table](https://github.com/ambader/keras_model_latex/blob/main/latex_table.pdf)
 
 ```python
 latex_table=model_to_latex(model)
 ```
 or
 
-get the code for latex figure
+get the code for ![latex figure](https://github.com/ambader/keras_model_latex/blob/main/latex_figure.pdf)
 ```python
 latex_figure=model_to_latex(model,True)
 ```
