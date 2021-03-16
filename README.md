@@ -81,7 +81,7 @@ get the code for ![latex table](https://github.com/ambader/keras_model_latex/blo
 ```python
 latex_table=model_to_latex(model)
 ```
-![png](https://user-images.githubusercontent.com/42641926/111282970-dc79db80-863e-11eb-8964-810e7807c2b8.png?s=10)
+![png](https://user-images.githubusercontent.com/42641926/111282970-dc79db80-863e-11eb-8964-810e7807c2b8.png?v=4&s=200)
 
 or
 
